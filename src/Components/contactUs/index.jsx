@@ -31,7 +31,7 @@ const ContactUs = () => {
                         <i className="fa-brands fa-linkedin-in text-2xl"></i>
                     </div>
                     <div className="absolute -bottom-24 -right-24 bg-zinc-200 rounded-full w-72 h-72"></div>
-                    <div className="absolute bottom-28 right-28 bg-zinc-500 rounded-full w-24 h-24 opacity-70"></div>
+                    <div className="absolute bottom-28 right-28 bg-zinc-500 rounded-full w-20 h-20 lg:w-24 lg:h-24 opacity-70"></div>
                 </div>
 
             </div>
